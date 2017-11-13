@@ -1,0 +1,4 @@
+.project
+.plugins
+*.war
+target/
