@@ -11,4 +11,5 @@ git show <commit>
 git checkout -b <branchName>
 git branch
 git checkout <bachName>
-
+git rm
+git mv
